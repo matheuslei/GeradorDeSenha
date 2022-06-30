@@ -1,5 +1,5 @@
 # GeradorDeSenha
-Simples projeto de gerador de senha. 
+Simples projeto de gerador de senha com HTML, CSS e Javascript. 
 
 Teste aqui: https://matheuslei.github.io/GeradorDeSenha
 
